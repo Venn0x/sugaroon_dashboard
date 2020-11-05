@@ -1,0 +1,5 @@
+SQLSTATE[HY000] [1045] Access denied for user 'ragehandle'@'localhost' (using password: YES)
+SQLSTATE[HY000] [1045] Access denied for user 'ragehandle'@'localhost' (using password: YES)
+SQLSTATE[HY000] [1049] Unknown database 'alexdoi'
+SQLSTATE[HY000] [1049] Unknown database 'alexdoi'
+SQLSTATE[HY000] [1049] Unknown database 'alexdoi'
