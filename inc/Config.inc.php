@@ -23,7 +23,7 @@ class Config {
 
 	public static $_ALLOW_THEME_CHANGE = 0;
 
-	public static $_PAGE_URL = 'http://localhost/bot_dashboard/';
+	public static $_PAGE_URL = 'http://localhost/bot_dashboard/ ';
 
 
 
