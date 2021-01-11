@@ -1,7 +1,7 @@
 <?php
 
 define('OAUTH2_CLIENT_ID', '771110685182001202');
-define('OAUTH2_CLIENT_SECRET', 'jA4zcFd4jZX3fXtSAoz8inMlL3sKNpoq');
+define('OAUTH2_CLIENT_SECRET', 'jAfsdfsg54t34wlL3sKNpoq');
 
 if(!defined('wcode.ro'))
 
